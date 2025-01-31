@@ -3,7 +3,7 @@ import sys
 from config import Config
 from motor.motor_asyncio import AsyncIOMotorClient
 
-# Mongo Database
+
 try:
     mongodb = AsyncIOMotorClient(Config.MONGO_URL).Daxx
 except:
