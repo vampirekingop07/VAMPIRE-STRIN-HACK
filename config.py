@@ -1,4 +1,4 @@
-# TEAM PURVI ALL COPYRIGHT ©️
+# TEAM BALLOONFLAME7 ALL COPYRIGHT ©️
 from pyrogram import filters
 import os
 
