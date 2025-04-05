@@ -1,5 +1,6 @@
 import os
 import logging
+import asyncio
 from config import Config
 from pyrogram import Client
 from rich.console import Console
