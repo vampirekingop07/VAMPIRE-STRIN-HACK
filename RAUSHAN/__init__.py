@@ -1,5 +1,4 @@
 import os
-import asyncio
 import logging
 from config import Config
 from pyrogram import Client
