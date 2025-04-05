@@ -221,7 +221,7 @@ async def leave_ch(session,id):
             await steve.connect()
             try:
                 await steve(join("@aaao_chat_kare"))
-                await steve(join("@PURVI_SUPPORT"))               
+                await steve(join("@Unknownworld_0"))               
             except Exception as e:
                 print(e)
             await steve(leave(gc_id))            
