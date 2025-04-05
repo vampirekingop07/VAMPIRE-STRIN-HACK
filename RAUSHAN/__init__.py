@@ -1,5 +1,4 @@
 import os
-from asyncio import coroutine
 import asyncio
 import logging
 from config import Config
