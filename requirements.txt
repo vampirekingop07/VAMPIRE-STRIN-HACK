@@ -1,7 +1,10 @@
-motor==3.0.0
+asyncio
 pyrogram==2.0.97
 pyromod==1.5
 TgCrypto
 telethon==1.26.1
 rich==13.3.1
+motor==3.3.2
 pymongo==4.6.0
+
+
